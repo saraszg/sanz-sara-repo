@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+Modifico un título de don-quijote.md y hago un commit
 En un lugar de los **Repos**,
 
 de cuyo **commit** no quiero acordarme,
